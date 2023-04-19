@@ -1,5 +1,5 @@
 # multi-column
-A Multi Column Grid Layout Made With HTML &amp; CSS
+A Responsive Multi Column Grid Layout Made With HTML &amp; CSS
 
 Made this from a grid-layout playlist i've been on for a few days: https://youtube.com/playlist?list=PL4cUxeGkcC9hk02lFb6EkdXF2DYGl4Gg4
 
